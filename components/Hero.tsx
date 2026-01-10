@@ -1,11 +1,10 @@
-
 import React from 'react';
 
 const Hero: React.FC = () => {
   return (
     <div className="relative pt-20 pb-12 flex flex-col items-center text-center">
       <div className="absolute top-0 -z-10 w-full max-w-lg aspect-square bg-indigo-500/10 blur-[120px] rounded-full" />
-      
+
       <div className="mb-8 relative group">
         <div className="absolute -inset-1 bg-gradient-to-r from-indigo-500 to-purple-600 rounded-full blur opacity-25 group-hover:opacity-40 transition duration-1000 group-hover:duration-200"></div>
         <img
@@ -34,7 +33,7 @@ const Hero: React.FC = () => {
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />
           </svg>
         </a>
-        
+
         <a
           href="#contact"
           className="px-8 py-4 bg-zinc-800 border border-zinc-700 hover:bg-zinc-750 text-white rounded-xl font-bold transition-all flex items-center justify-center hover:scale-[1.02] active:scale-95 shadow-sm"
@@ -43,18 +42,23 @@ const Hero: React.FC = () => {
         </a>
       </div>
 
-      <div className="mt-20 flex flex-wrap justify-center gap-x-8 gap-y-4 text-xs font-bold uppercase tracking-widest text-zinc-600">
+      <div className="mt-20 flex flex-col sm:flex-row items-center justify-center gap-x-8 gap-y-4 text-[10px] sm:text-xs font-bold uppercase tracking-widest text-zinc-600">
         <span className="flex items-center gap-2">
-          <div className="w-1.5 h-1.5 rounded-full bg-green-500 animate-pulse" /> 
+          <div className="w-1.5 h-1.5 rounded-full bg-green-400 animate-pulse shadow-[0_0_8px_rgba(74,222,128,0.4)]" />
           Open for Opportunities
         </span>
-        <span>•</span>
-        <span>Based in Lagos, Nigeria</span>
-        <span>•</span>
-        <span>Relocation Available</span>
+        <span className="flex items-center gap-2">
+          <div className="w-1 h-1 rounded-full bg-zinc-600" />
+          Based in Lagos, Nigeria
+        </span>
+        <span className="flex items-center gap-2">
+          <div className="w-1 h-1 rounded-full bg-zinc-600" />
+          Relocation Available
+        </span>
       </div>
     </div>
   );
 };
 
 export default Hero;
+
