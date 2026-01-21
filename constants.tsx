@@ -14,7 +14,7 @@ export const PROJECTS: Project[] = [
     ],
     tags: ['React 19', 'TypeScript', 'Tailwind', 'Gemini AI', 'LMS'],
     links: {
-      live: 'https://eduutrack.netlify.app',
+      live: 'https://educatrack.netlify.app/',
       github: 'https://github.com/efemenahiri/edutrack'
     },
     details: {
@@ -39,7 +39,7 @@ export const PROJECTS: Project[] = [
     ],
     tags: ['React 19', 'TypeScript', 'Gemini 3', 'Tailwind', 'AI Canvas'],
     links: {
-      live: 'https://echointelligence.netlify.app',
+      live: 'https://echoooai.netlify.app/',
       github: 'https://github.com/efemenahiri/echo-ai'
     },
     details: {
@@ -64,7 +64,7 @@ export const PROJECTS: Project[] = [
     ],
     tags: ['React 19', 'TypeScript', 'Tailwind', 'Gemini API', 'Framer Motion'],
     links: {
-      live: 'https://ritualss.netlify.app',
+      live: 'https://ritualsss.netlify.app/',
       github: 'https://github.com/efemenahiri/rituals'
     },
     details: {
@@ -89,7 +89,7 @@ export const PROJECTS: Project[] = [
     ],
     tags: ['React', 'TypeScript', 'Tailwind', 'Gemini API', 'SaaS'],
     links: {
-      live: 'https://datapiloot.netlify.app',
+      live: 'https://datapilott.netlify.app/',
       github: 'https://github.com/efemenahiri/datapilot'
     },
     details: {
@@ -114,7 +114,7 @@ export const PROJECTS: Project[] = [
     ],
     tags: ['React 19', 'TypeScript', 'Tailwind', 'State Machines'],
     links: {
-      live: 'https://careerboardd.netlify.app',
+      live: 'https://careerboard.netlify.app/',
       github: 'https://github.com/efemenahiri/career-board'
     },
     details: {
@@ -139,7 +139,7 @@ export const PROJECTS: Project[] = [
     ],
     tags: ['React 19', 'TypeScript', 'Tailwind', 'Gemini API', 'Fintech'],
     links: {
-      live: 'https://balancehuub.netlify.app',
+      live: 'https://balanchubb.netlify.app/',
       github: 'https://github.com/efemenahiri/balance-hub'
     },
     details: {
@@ -164,7 +164,7 @@ export const PROJECTS: Project[] = [
     ],
     tags: ['React 19', 'TypeScript', 'Tailwind', 'Gemini API'],
     links: {
-      live: 'https://shopsheree.netlify.app',
+      live: 'https://shopsphereee.netlify.app/',
       github: 'https://github.com/efemenahiri/shop-sphere'
     },
     details: {
@@ -189,7 +189,7 @@ export const PROJECTS: Project[] = [
     ],
     tags: ['React 19', 'TypeScript', 'Tailwind', 'SaaS'],
     links: {
-      live: 'https://projecmanager.netlify.app',
+      live: 'https://projecttmanagerr.netlify.app/',
       github: 'https://github.com/efemenahiri/project-manager-saas'
     },
     details: {
@@ -214,7 +214,7 @@ export const PROJECTS: Project[] = [
     ],
     tags: ['React', 'TypeScript', 'Tailwind', 'Design Systems'],
     links: {
-      live: 'https://designnplay.netlify.app',
+      live: 'https://designplayy.netlify.app/',
       github: 'https://github.com/efemenahiri/design-play'
     },
     details: {
@@ -239,7 +239,7 @@ export const PROJECTS: Project[] = [
     ],
     tags: ['React 19', 'TypeScript', 'Tailwind', 'Gemini API'],
     links: {
-      live: 'https://syncpadd.netlify.app',
+      live: 'https://syncpaddd.netlify.app/',
       github: 'https://github.com/efemenahiri/syncpad'
     },
     details: {
@@ -264,7 +264,7 @@ export const PROJECTS: Project[] = [
     ],
     tags: ['React 19', 'TypeScript', 'Tailwind', 'Gemini API'],
     links: {
-      live: 'https://lolacafe.netlify.app',
+      live: 'https://lolascafe.netlify.app/',
       github: 'https://github.com/efemenahiri/lola-cafe'
     },
     details: {
@@ -289,7 +289,7 @@ export const PROJECTS: Project[] = [
     ],
     tags: ['React 19', 'TypeScript', 'Tailwind', 'Gemini API'],
     links: {
-      live: 'https://coldscooop.netlify.app',
+      live: 'https://coldscoop.netlify.app/',
       github: 'https://github.com/efemenahiri/cold-scoop'
     },
     details: {
@@ -314,7 +314,7 @@ export const PROJECTS: Project[] = [
     ],
     tags: ['React 19', 'TypeScript', 'Tailwind', 'Gemini API'],
     links: {
-      live: 'https://grandcubahotel.netlify.app',
+      live: 'https://grandcuba.netlify.app/',
       github: 'https://github.com/efemenahiri/grand-cuba-hotel'
     },
     details: {
@@ -339,7 +339,7 @@ export const PROJECTS: Project[] = [
     ],
     tags: ['React 19', 'TypeScript', 'Tailwind', 'Gemini API'],
     links: {
-      live: 'https://k9inestores.netlify.app',
+      live: 'https://k9inestore.netlify.app/',
       github: 'https://github.com/efemenahiri/k9ine-store'
     },
     details: {
@@ -364,7 +364,7 @@ export const PROJECTS: Project[] = [
     ],
     tags: ['React 18', 'TypeScript', 'Tailwind', 'Gemini API'],
     links: {
-      live: 'https://menastores.netlify.app',
+      live: 'https://menastore.netlify.app/',
       github: 'https://github.com/efemenahiri/mena-store'
     },
     details: {
@@ -389,7 +389,7 @@ export const PROJECTS: Project[] = [
     ],
     tags: ['React 19', 'TypeScript', 'Tailwind', 'Gemini API'],
     links: {
-      live: 'https://malxeleganc.netlify.app',
+      live: 'https://malxelegance.netlify.app/',
       github: 'https://github.com/efemenahiri/malx-elegance'
     },
     details: {
@@ -414,7 +414,7 @@ export const PROJECTS: Project[] = [
     ],
     tags: ['React 19', 'TypeScript', 'Tailwind CSS', 'Luxury UX'],
     links: {
-      live: 'https://goldsteps.netlify.app',
+      live: 'https://goldstep.netlify.app/',
       github: 'https://github.com/efemenahiri/goldstep-hotels'
     },
     details: {
