@@ -8,7 +8,7 @@ const Hero: React.FC = () => {
       <div className="mb-8 relative group">
         <div className="absolute -inset-1 bg-gradient-to-r from-indigo-500 to-purple-600 rounded-full blur opacity-25 group-hover:opacity-40 transition duration-1000 group-hover:duration-200"></div>
         <img
-          src="https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/aa41abdebb32183d13bf1d390b5a4e69~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=add5ab47&x-expires=1768147200&x-signature=R8mqtNAqcLgf573Yt51ITHrxQcQ%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my2"
+          src="https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/aa41abdebb32183d13bf1d390b5a4e69~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=d6575009&x-expires=1769238000&x-signature=BHmHmX0gmrsgapE5mPeH4zecsMQ%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my2"
           alt="Efemena Evwierhurhoma"
           className="relative w-32 h-32 rounded-full border-4 border-zinc-900 shadow-xl object-cover"
         />
