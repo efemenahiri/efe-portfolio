@@ -40,7 +40,7 @@ export const PROJECTS: Project[] = [
     tags: ['React 19', 'TypeScript', 'Gemini 3', 'Tailwind', 'AI Canvas'],
     links: {
       live: 'https://echoooai.netlify.app/',
-      github: 'https://github.com/efemenahiri/echo-ai'
+      github: 'https://github.com/efemenahiri/echoai'
     },
     details: {
       problem: 'Standard AI interfaces often suffer from high perceived latency and a "one-size-fits-all" UX that feels disjointed when switching between creative and analytical tasks.',
@@ -165,7 +165,7 @@ export const PROJECTS: Project[] = [
     tags: ['React 19', 'TypeScript', 'Tailwind', 'Gemini API'],
     links: {
       live: 'https://shopsphereee.netlify.app/',
-      github: 'https://github.com/efemenahiri/shop-sphere'
+      github: 'https://github.com/efemenahiri/shopsphere'
     },
     details: {
       problem: 'Modern e-commerce users suffer from choice paralysis due to static categories and overwhelming catalogs that fail to capture nuanced intent.',

@@ -1,4 +1,5 @@
 import React from 'react';
+import efemenaImg from '../assets/efemena.jpeg';
 
 const Hero: React.FC = () => {
   return (
@@ -8,7 +9,7 @@ const Hero: React.FC = () => {
       <div className="mb-8 relative group">
         <div className="absolute -inset-1 bg-gradient-to-r from-indigo-500 to-purple-600 rounded-full blur opacity-25 group-hover:opacity-40 transition duration-1000 group-hover:duration-200"></div>
         <img
-          src="https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/aa41abdebb32183d13bf1d390b5a4e69~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=b09f70f1&x-expires=1774162800&x-signature=sF%2FINGG3hJ6aHPHPrAc9D01beUU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my"
+          src={efemenaImg}
           alt="Efemena Evwierhurhoma"
           className="relative w-32 h-32 rounded-full border-4 border-zinc-900 shadow-xl object-cover"
         />
